@@ -1,0 +1,9 @@
+development:
+  secret: TAlR9WfdGoQONdgo+zNqRlEtK2dOnZRxKscZt7IjQGs
+
+test:
+  secret: TAlR9WfdGoQONdgo+zNqRlEtK2dOnZRxKscZt7IjQGs
+
+production:
+  secret: TAlR9WfdGoQONdgo+zNqRlEtK2dOnZRxKscZt7IjQGs
+

@@ -15,6 +15,8 @@ group :doc do
 end
 
 # App gems
+gem "searchbing"
+
 group :test do
   gem 'rspec-rails'
   gem 'cucumber-rails', require: false
