@@ -1,4 +1,4 @@
-require 'searchbing'
+require "searchbing"
 require_relative "../../app/services/search_engine"
 
 describe SearchEngine do
